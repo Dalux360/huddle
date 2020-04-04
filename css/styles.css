@@ -44,5 +44,51 @@ h1{
   width: 43.5rem;
   position: absolute;
   right: 3rem;
-  top: 10rem;
+  top: 13.5rem;
+}
+
+.try {
+	box-shadow: 0px 3px 7px 0px #333333;
+	background-color:#ffffff;
+	border-radius:28px;
+	border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#333333;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:10px 49px;
+	text-decoration:none;
+  text-shadow:0px 1px 5px #33333;
+}
+.try:hover {
+	background-color:#f9fcfb;
+}
+.try:active {
+	position:relative;
+	top:1px;
+}
+
+.get {
+	box-shadow: 0px 1px 12px 0px #ffe0e0;
+	background-color:#e6739f;
+	border-radius:32px;
+	border:1px solid #ffe0e0;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:19px 65px;
+	text-decoration:none;
+  margin-top: 20px;
+}
+.get:hover {
+	background-color:#5cbf2a;
+}
+.get:active {
+	position:relative;
+	top:1px;
 }
