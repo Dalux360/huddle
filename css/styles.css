@@ -1,0 +1,48 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+  font: 18px;
+  background-image: url("/home/dalux/Desktop/boot/huddle-landing-page-with-alternating-feature-blocks-master/images/bg-hero-desktop.svg");
+  background-color: #f7fbfc;
+}
+
+.topContainer{
+  margin: 80px 50px auto 30px;
+  text-align: left;
+  width: 35%;
+
+}
+
+.tc1{
+  margin-bottom: 200px;
+}
+
+.para1{
+  line-height: 1.7;
+  font: 50px;
+}
+
+.logo{
+  width: 13rem;
+}
+
+h1{
+  font-family: 'Poppins', sans-serif;
+  font: 600px;
+}
+.try{
+  position: absolute;
+  right: 4rem; /*1rem = 16px*/
+  margin-bottom: 100px;
+
+}
+.get{
+  position: absolute;
+  left: 4rem
+}
+
+.illustration{
+  width: 43.5rem;
+  position: absolute;
+  right: 3rem;
+  top: 10rem;
+}
